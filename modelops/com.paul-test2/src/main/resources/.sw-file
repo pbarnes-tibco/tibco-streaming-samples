@@ -1,0 +1,10 @@
+{
+  "version" : "1",
+  "artifactType" : {
+    "name" : "Managed File Extension - CSV",
+    "category" : "managed file"
+  },
+  "attributes" : {
+    "type" : "file"
+  }
+}
